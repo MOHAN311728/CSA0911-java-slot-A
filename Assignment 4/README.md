@@ -1,3 +1,6 @@
+Name:Mohan.p
+reg no:192421044
+
 # CO4 Java Assignment 4 – Event-Driven GUI Design
 
 This project contains runnable Swing/AWT demonstrations for Tasks 1–6.
