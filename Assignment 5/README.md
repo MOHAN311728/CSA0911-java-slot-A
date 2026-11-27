@@ -1,9 +1,7 @@
-Name:Mohan.p
-reg no:192421044
 # Java Assignment 5 – CO5: Data Persistence Engineering
 
-**Student:** Sahil J.S  
-**Register number:** 192525200  
+**Student:** Mohan.p
+**Register number:** 192421044
 **Course code:** CSA0911  
 **Course:** Programming in Java
 
