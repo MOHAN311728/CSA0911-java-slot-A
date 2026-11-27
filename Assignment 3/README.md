@@ -1,3 +1,5 @@
+Name:Mohan.p
+reg no:192421044
 # Programming in Java – Assignment 3 (CO3)
 
 Java 17+ implementation starter for all seven questions in the supplied CO3 assignment.
