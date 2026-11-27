@@ -1,3 +1,5 @@
+Name:Mohan.p
+reg no:192421044
 # Programming in Java – Assignment 2 (CO2)
 
 Java 17+ reference implementation for Q1–Q7 of the uploaded assignment.
