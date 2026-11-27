@@ -1,3 +1,6 @@
+name: Mohan
+reg no:192421044
+
 # Campus Smart-Parking System (Java)
 
 A console-based Java 17 project implementing the CO1 assignment scenario.
